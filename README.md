@@ -72,5 +72,5 @@ Pull requests are welcome! Please ensure your code follows best practices.
 ## 📜 License
 This project is licensed under the MIT License.
 
-![AI Content Generation](https://miro.medium.com/max/1400/1*wvaThpYXc18hQuUeG8k5Fw.png)
+![AI Content Generation]
 
